@@ -5,14 +5,17 @@
 This app will let users to generate team with Manager, Engineers, and Inters. Each position will have unique information of user's prompt.
 
 ## Demo
-Link to Demo Video: <a href="https://drive.google.com/file/d/1fmWDcyDN999jutmABmdX5xS5HCI-eN0t/view"> Link to google drive video</a>
+Link to Demo Video: <a href="https://drive.google.com/file/d/1MUp8fNP-aReEmrXYl8OiXvg1Ihl2eMoN/view"> Link to google drive video</a>
 
 ## Screenshot
-Below is picture of generating README.md using a terminal.
-![generated-readme](./img/generating-readme.png)
+Below is picture of when test is done running.<br>
+![test-resault](./img/test-resault.png)
 
-Below is picture of generated README.md through the terminal.
-![generated-readme](./img/generated-readme.png)
+Below is picture of terminal when done creating teams.<br>
+![finished-look](./img/run.png)
+
+Below is what generated Team website looks like.<br>
+![generated](./img/screenshot.png)
 
 ## Tech Used
 
